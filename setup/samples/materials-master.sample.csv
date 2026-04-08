@@ -1,0 +1,4 @@
+Title,MaterialId,MaterialType,VersionLabel,ApprovalStatus,IsReturnTarget,ConditionKey,SourceUrl,NotesEx
+標準据付マニュアル,MAN-001,共通マニュアル,v1.0,承認済み,TRUE,DEFAULT,https://contoso.sharepoint.com/sites/FieldForward_DX2_dev/Shared%20Documents/manual.pdf,PoC 用の共通マニュアル
+標準図面セット,DWG-001,共通図面,v1.0,承認済み,TRUE,DEFAULT,https://contoso.sharepoint.com/sites/FieldForward_DX2_dev/Shared%20Documents/drawing.pdf,PoC 用の図面セット
+結果帳票テンプレート,TPL-001,結果帳票テンプレート,v1.0,承認済み,TRUE,DEFAULT,https://contoso.sharepoint.com/sites/FieldForward_DX2_dev/Shared%20Documents/result-template.xlsx,返信帳票生成用

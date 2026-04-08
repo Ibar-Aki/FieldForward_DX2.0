@@ -1,0 +1,43 @@
+{
+  "tenant": {
+    "adminUpn": "admin@contoso.onmicrosoft.com",
+    "organization": "contoso.onmicrosoft.com",
+    "sharePointAdminUrl": "https://contoso-admin.sharepoint.com",
+    "pnpClientId": "00000000-0000-0000-0000-000000000000"
+  },
+  "environment": {
+    "name": "dev",
+    "siteTitle": "FieldForward DX2 Dev",
+    "siteAlias": "FieldForward_DX2_dev",
+    "siteUrl": "https://contoso.sharepoint.com/sites/FieldForward_DX2_dev",
+    "siteDescription": "FieldForward DX2 developer sandbox for one or two engineers.",
+    "owner": "dev1@contoso.com",
+    "localeId": 1041
+  },
+  "mailbox": {
+    "displayName": "FieldForward DX2 Dev",
+    "alias": "fieldforward-dx2-dev",
+    "primarySmtpAddress": "fieldforward-dx2-dev@contoso.com"
+  },
+  "groups": {
+    "operators": [
+      "dev1@contoso.com",
+      "dev2@contoso.com"
+    ],
+    "developers": [
+      "dev1@contoso.com",
+      "dev2@contoso.com"
+    ],
+    "technicalOwners": [
+      "dev1@contoso.com"
+    ]
+  },
+  "paths": {
+    "allowedSendersCsv": "setup/samples/allowed-senders.sample.csv",
+    "materialsCsv": "setup/samples/materials-master.sample.csv"
+  },
+  "automation": {
+    "duplicateWindowMinutes": 15,
+    "maxRetryCount": 3
+  }
+}

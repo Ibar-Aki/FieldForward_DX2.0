@@ -1,0 +1,3 @@
+Title,SenderEmail,AffiliationType,IsAccepted,AllowAutoReply,AllowDelegateSend,AllowForwardedMail,DefaultProjectCandidate,ReviewAssignee,EffectiveStartDate,EffectiveEndDate
+開発者A,dev1@contoso.com,開発検証,TRUE,TRUE,TRUE,TRUE,DEV-PROJECT-001,dev1@contoso.com,2026-04-01,
+開発者B,dev2@contoso.com,開発検証,TRUE,TRUE,TRUE,TRUE,DEV-PROJECT-002,dev1@contoso.com,2026-04-01,
